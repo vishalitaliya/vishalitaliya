@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vishalitaliya25@gmail.com**
 
-- 📄 Know about my experiences [https://www.upwork.com/freelancers/rikensonani2](https://www.upwork.com/freelancers/rikensonani2)
+- 📄 Know about my experiences [https://www.upwork.com/freelancers/vishalitaliya](https://www.upwork.com/freelancers/vishalitaliya)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
