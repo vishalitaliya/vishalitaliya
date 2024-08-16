@@ -1,6 +1,6 @@
 ![Header](./rikenheader.png)
-<h1 align="center">Hi 👋, I'm Riken Sonani</h1>
-<h3 align="center">Expert Unity Game Developer | AR VR | UI/UX</h3>
+<h1 align="center">Hi 👋, I'm Vishal Italiya</h1>
+<h3 align="center">Expert Unity Game Developer | Multiplayer Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Unity XR Interactions**
 
-- 📫 How to reach me **rikensonani96@gmail.com**
+- 📫 How to reach me **vishalitaliya25@gmail.com**
 
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/rikensonani2](https://www.upwork.com/freelancers/rikensonani2)
 
